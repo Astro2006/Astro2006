@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Über mich
 
-<!--
-**Astro2006/Astro2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Name:** Tobias Brogle
+- **Kurze Vorstellung:** Ich bin ein junger, wissbegieriger Mann, der derzeit die weiterführende Schule IMS Basel besucht.
+- **Bildung und Qualifikationen:** Absolvent der IMS Basel, Sprachzertifikat DELF B1
+- **Technische Fähigkeiten:** Python, Java, HTML, CSS, JavaScript, PHP, MySQL, NoSQL
+- **Stärken und Soft Skills:** Hervorragende Teamarbeit, starkes technisches Verständnis, ausgeprägte logische Denkfähigkeit
+- **Interessen und Hobbies:** Naturfotografie, Musik (Trompete in einer Band), 3D-Druck
+- **Ziele und Ambitionen:** 
+  - Kurzfristig: Schulabschluss am IMS Basel erfolgreich abschließen und das EFZ Zeugnis erhalten.
+  - Langfristig: Eine Karriere als Programmierer in einem Unternehmen aufbauen.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kontaktiere mich gerne per E-Mail: tobias.brogle@stud.edubs.ch
