@@ -1,13 +1,20 @@
-# 👋 Über mich
+👋 Hallo, ich bin Tobias Brogle!
 
-- **Name:** Tobias Brogle
-- **Kurze Vorstellung:** Ich bin ein junger, wissbegieriger Mann, der derzeit die weiterführende Schule IMS Basel besucht.
-- **Bildung und Qualifikationen:** Absolvent der IMS Basel, Sprachzertifikat DELF B1
-- **Technische Fähigkeiten:** Python, Java, HTML, CSS, JavaScript, PHP, MySQL, NoSQL
-- **Stärken und Soft Skills:** Hervorragende Teamarbeit, starkes technisches Verständnis, ausgeprägte logische Denkfähigkeit
-- **Interessen und Hobbies:** Naturfotografie 📷, Musik (Trompete 🎺 in einer Band), 3D-Druck 🖨️
-- **Ziele und Ambitionen:** 
-  - Kurzfristig: Schulabschluss am IMS Basel erfolgreich abschließen und das EFZ Zeugnis erhalten 🎓.
-  - Langfristig: Eine Karriere als Programmierer in einem Unternehmen aufbauen 💻.
+🎓 Derzeit besuche ich die weiterführende Schule Informatik Mittelschule Basel und strebe mein EFZ Zeugnis an.
 
-Kontaktiere mich gerne per E-Mail: [Deine E-Mail-Adresse hier einfügen]
+🛠️ Technische Fähigkeiten
+- Python, Java, HTML, CSS, JavaScript, PHP
+- MySQL, NoSQL
+
+💪 Stärken und Soft Skills
+- Ausgezeichnete Teamarbeit
+- Starkes technisches Verständnis
+- Logisches Denken
+
+🌱 Interessen und Hobbies
+- Naturfotografie 📷
+- Musik (Trompete in einer Band) 🎺
+- 3D-Druck 🖨️
+
+📧 Kontaktiere mich
+E-Mail: tobias.brogle@hispeed.ch
