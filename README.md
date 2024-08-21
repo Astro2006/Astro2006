@@ -16,5 +16,5 @@
 - Musik (Trompete in einer Band) 🎺
 - 3D-Druck 🖨️
 
-📧 Kontaktiere mich
+📧 Kontaktieren Sie mich
 E-Mail: tobias.brogle@hispeed.ch
