@@ -2,6 +2,8 @@
 
 🎓 Derzeit besuche ich die weiterführende Schule Informatik Mittelschule Basel und strebe mein EFZ Zeugnis an.
 
+    Im moment Arbeite ich Bei Codebar Solutions Ag was mir viel spass bringt
+
 🛠️ Technische Fähigkeiten
 - Python, Java, HTML, CSS, JavaScript, PHP
 - MySQL, NoSQL
